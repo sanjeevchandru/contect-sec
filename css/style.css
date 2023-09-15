@@ -118,12 +118,12 @@
 	.form-mesge textarea{
 		width:100%;
 	}
-	.form-btn{
+	/*.form-btn{
 		width:50%;
 		margin:auto;
 		
 		padding:20px 0 15px 0;
-	}
+	}*/
 	.form-btn a{
 		padding:15px 20px;
 		background-color:#cc1616;
